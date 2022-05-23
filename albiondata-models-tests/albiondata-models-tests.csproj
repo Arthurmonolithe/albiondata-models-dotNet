@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>AlbionData.Models.Tests</RootNamespace>
+    <RootNamespace>Lancelot.Models.Tests</RootNamespace>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
