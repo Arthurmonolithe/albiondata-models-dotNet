@@ -36,6 +36,14 @@ namespace AlbionData.Models
     [Column("auction_type")]
     [MaxLength(32)]
     public string AuctionType { get; set; }
+    
+    [Column("seller_name")]
+    [MaxLength(64)]
+    public string SellerName { get; set; }
+
+    [Column("buyer_name")]
+    [MaxLength(64)]
+    public string BuyerName { get; set; }
 
     [Column("expires")]
     public DateTime Expires { get; set; }
