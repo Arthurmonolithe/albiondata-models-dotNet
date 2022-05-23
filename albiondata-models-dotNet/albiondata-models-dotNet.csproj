@@ -2,9 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <RootNamespace>AlbionData.Models</RootNamespace>
+    <RootNamespace>Lancelot.Models</RootNamespace>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>AlbionData.Models</PackageId>
+    <PackageId>Lancelot.Models</PackageId>
     <Version>0.1.11</Version>
     <Authors>albion-online-data</Authors>
     <Company>albion-online-data</Company>
