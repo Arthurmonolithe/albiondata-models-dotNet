@@ -22,7 +22,12 @@ namespace AlbionData.Models
       {Location.Caerleon2, "Caerleon 2" },
       {Location.FortSterling, "Fort Sterling" },
       {Location.MountainCross, "Mountain Cross" },
-      {Location.ArthursRest, "Arthurs Rest" }
+      {Location.ArthursRest, "Arthurs Rest" },
+      {Location.ThetfordPortal, "Thetford Portal" },
+      {Location.LymhurstPortal, "Lymhurst Portal" },
+      {Location.BridgewatchPortal, "Bridgewatch Portal" },
+      {Location.MartlockPortal, "Martlock Portal" },
+      {Location.FortSterlingPortal, "FortSterling Portal" }
     };
 
     public static string GetName(Location location)
@@ -57,6 +62,11 @@ namespace AlbionData.Models
     Caerleon2 = 3013,
     FortSterling = 4002,
     MountainCross = 4006,
-    ArthursRest = 4300
+    ArthursRest = 4300,
+    ThetfordPortal = 0301,
+    LymhurstPortal = 1301,
+    BridgewatchPortal = 2301,
+    MartlockPortal = 3301,
+    FortSterlingPortal = 4301
   }
 }
