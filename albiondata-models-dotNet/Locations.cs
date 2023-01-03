@@ -69,6 +69,6 @@ namespace AlbionData.Models
     BridgewatchPortal = 2301,
     MartlockPortal = 3301,
     FortSterlingPortal = 4301,
-    Brecilien = 5001
+    Brecilien = 5003
   }
 }
