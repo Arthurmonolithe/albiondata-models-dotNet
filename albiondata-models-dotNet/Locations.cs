@@ -23,11 +23,12 @@ namespace AlbionData.Models
       {Location.FortSterling, "Fort Sterling" },
       {Location.MountainCross, "Mountain Cross" },
       {Location.ArthursRest, "Arthurs Rest" },
-      {Location.ThetfordPortal, "Thetford Portal" },
-      {Location.LymhurstPortal, "Lymhurst Portal" },
-      {Location.BridgewatchPortal, "Bridgewatch Portal" },
-      {Location.MartlockPortal, "Martlock Portal" },
-      {Location.FortSterlingPortal, "FortSterling Portal" }
+      {Location.ThetfordPortal, "Thetford" },
+      {Location.LymhurstPortal, "Lymhurst" },
+      {Location.BridgewatchPortal, "Bridgewatch" },
+      {Location.MartlockPortal, "Martlock" },
+      {Location.FortSterlingPortal, "FortSterling" },
+      {Location.Brecilien, "Brecilien" }
     };
 
     public static string GetName(Location location)
@@ -67,6 +68,7 @@ namespace AlbionData.Models
     LymhurstPortal = 1301,
     BridgewatchPortal = 2301,
     MartlockPortal = 3301,
-    FortSterlingPortal = 4301
+    FortSterlingPortal = 4301,
+    Brecilien = 5001
   }
 }
