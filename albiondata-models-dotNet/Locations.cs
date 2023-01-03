@@ -27,7 +27,7 @@ namespace AlbionData.Models
       {Location.LymhurstPortal, "Lymhurst" },
       {Location.BridgewatchPortal, "Bridgewatch" },
       {Location.MartlockPortal, "Martlock" },
-      {Location.FortSterlingPortal, "FortSterling" },
+      {Location.FortSterlingPortal, "Fort Sterling" },
       {Location.Brecilien, "Brecilien" }
     };
 
