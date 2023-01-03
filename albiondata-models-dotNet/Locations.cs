@@ -23,11 +23,11 @@ namespace AlbionData.Models
       {Location.FortSterling, "Fort Sterling" },
       {Location.MountainCross, "Mountain Cross" },
       {Location.ArthursRest, "Arthurs Rest" },
-      {Location.ThetfordPortal, "Thetford" },
-      {Location.LymhurstPortal, "Lymhurst" },
-      {Location.BridgewatchPortal, "Bridgewatch" },
-      {Location.MartlockPortal, "Martlock" },
-      {Location.FortSterlingPortal, "Fort Sterling" },
+      {Location.ThetfordPortal, "Thetford Portal" },
+      {Location.LymhurstPortal, "Lymhurst Portal" },
+      {Location.BridgewatchPortal, "Bridgewatch Portal" },
+      {Location.MartlockPortal, "Martlock Portal" },
+      {Location.FortSterlingPortal, "Fort Sterling Portal" },
       {Location.Brecilien, "Brecilien" }
     };
 
